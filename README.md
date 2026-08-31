@@ -90,4 +90,4 @@ inside the `screenshots` folder.
 
 ## 👨‍💻 Author
 
-**Devis Lilhare**
+**Shubham Warhade**
