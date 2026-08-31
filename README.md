@@ -92,20 +92,3 @@ inside the `screenshots` folder.
 
 **Shubham Warhade**
 
-
-flowchart TD
-
-    A[Raw Dataset] --> B[Profiling]
-    B --> C[Validation]
-    C --> D[Anomaly Detection]
-    D --> E[Quality Metrics]
-    E --> F[Overall Quality Score]
-
-    E --> G[Recommendations]
-    E --> H[Visualizations]
-    E --> I[RAG Context]
-
-    I --> J[Retriever]
-    J --> K[Knowledge Base]
-    K --> L[LLM]
-    L --> M[AI Assistant Response]
